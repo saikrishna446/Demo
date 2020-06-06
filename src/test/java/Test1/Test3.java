@@ -13,4 +13,7 @@ public class Test3 {
 		System.out.println("sai");
 	}
 
+	public static void sai() {
+		System.out.println("sai");
+	}
 }
