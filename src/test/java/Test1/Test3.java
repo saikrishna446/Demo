@@ -19,4 +19,7 @@ public class Test3 {
 	public static void saikrishna() {
 		System.out.println("sai");
 	}
+	public static void vyshu() {
+		System.out.println("sai");
+	}
 }
