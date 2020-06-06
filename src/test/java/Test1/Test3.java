@@ -16,4 +16,7 @@ public class Test3 {
 	public static void sai() {
 		System.out.println("sai");
 	}
+	public static void saikrishna() {
+		System.out.println("sai");
+	}
 }
